@@ -4,13 +4,91 @@
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Enjoyeng</title>
-	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-	<img src="placeholder.png" id="placeholder-img"/>
+	<div class="nav-language-options">
+		<div class="nav-lang-btn-wrapper">
+			<button class="nav-lang-btn" onclick="translateNav('english')">English</button>
+		</div>
+		<div class="nav-lang-btn-wrapper">
+			<button class="nav-lang-btn" onclick="translateNav('japanese')">日本語</button>
+		</div>
+	</div>
 
-	<script type="text/javascript" src="js/help.js"></script>
+	<div class="desktop-view">
+		<div class="navigation desktop-window">
+			<div class="nav-top">
+				<div class="nav-top-text-wrapper">
+					<h1 class="enjoyeng-title">Enjoyeng</h1>
+				</div>
+				<div class="nav-search-input-wrapper">
+					<input class="search-input" type="text" placeholder="Search enjoyeng">
+				</div>
+			</div>
+			<div class="nav-middle">
+				<div class="nav-content-wrapper">
+					<h3 class="nav-content-title nav-text">BASICS</h3>
+					<ul class="nav-content-list">
+						<li class="content-item nav-text" onclick="updateView(this)">Hello</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Sentences</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Questions</li>
+					</ul>
+				</div>
 
+				<div class="nav-content-wrapper">
+					<h3 class="nav-content-title nav-text">VOCABULARY</h3>
+					<ul class="nav-content-list">
+						<li class="content-item nav-text" onclick="updateView(this)">People</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Places</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Food</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Drinks</li>
+					</ul>
+				</div>
+
+				<div class="nav-content-wrapper">
+					<h3 class="nav-content-title nav-text">VERBS</h3>
+					<ul class="nav-content-list">
+						<li class="content-item nav-text" onclick="updateView(this)">To Be</li>
+						<li class="content-item nav-text" onclick="updateView(this)">To Do</li>
+						<li class="content-item nav-text" onclick="updateView(this)">To Go</li>
+						<li class="content-item nav-text" onclick="updateView(this)">To Have</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Present</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Past</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Future</li>
+					</ul>
+				</div>
+
+				<div class="nav-content-wrapper">
+					<h3 class="nav-content-title nav-text">PATTERNS</h3>
+					<ul class="nav-content-list">
+						<li class="content-item nav-text" onclick="updateView(this)">Often</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Want To Do</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Like</li>
+					</ul>
+				</div>
+
+				<div class="nav-content-wrapper">
+					<h3 class="nav-content-title nav-text">GRAMMAR</h3>
+					<ul class="nav-content-list">
+						<li class="content-item nav-text" onclick="updateView(this)">Noun</li>
+						<li class="content-item nav-text" onclick="updateView(this)">Prepositions</li>
+						<li class="content-item nav-text" onclick="updateView(this)">This, That, The Other</li>
+					</ul>
+				</div>
+			</div>
+			<div class="nav-bottom">
+			</div>
+		</div>
+
+		<div class="view desktop-window">
+			<div class="nav-address-display"></div>
+			<div class="view-main"></div>
+		</div>
+	</div>
+
+
+	<script type="text/javascript" src="enjoyeng.js"></script>
 </body>
 </html>

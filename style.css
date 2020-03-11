@@ -1,6 +1,149 @@
-.placeholder-img {
+
+:root {
+  --page-font: 'Comfortaa';
+}
+
+body {
+  margin: 0px;
+  font-family: var(--page-font);
+}
+
+input:focus {
+  outline: none;
+}
+
+.desktop-view {
+  padding: 0px;
+  margin: 0 auto;
+}
+
+.desktop-window {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.navigation {
+  background: #454545;
+  width: 300px;
+  position: static;
+}
+
+.nav-top {
+  background: #E36767;
+  height: 150px;
+}
+
+.nav-top-text-wrapper {
+  padding: 10px 0px 10px 0px;
+}
+
+.enjoyeng-title {
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  font-size: 24px;
+}
+
+.nav-search-input-wrapper {
+
+}
+
+.search-input {
   position: relative;
   display: block;
   margin: 0 auto;
+  width: 240px;
+  font-size: 18px;
+  border-radius: 16px;
+  border: none;
+  padding: 8px 16px 8px 12px;
+}
+
+.nav-middle {
+  padding-left: 25px;
+  padding-bottom: 30px;
+}
+
+.nav-content-wrapper {
+
+}
+
+.nav-content-title {
+  color: #e36767;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.nav-content-list {
+  padding-left: 0px;
+  list-style-type: none;
+  margin: 10px 0px 30px 0px;
+}
+
+.content-item {
+  color: white;
+  padding: 10px 0px 10px 0px;
+  cursor: pointer;
+}
+
+.nav-bottom {
+
+}
+
+.nav-language-options {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 300px;
+  background: #6d6d6d;
+  height: 50px;
+}
+
+.nav-lang-btn-wrapper {
+  position: relative;
+  display: inline-block;
+  float: left;
+  width: 50%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-lang-btn {
+  position: relative;
+  text-align: center;
   width: 100%;
+  padding: 0px;
+  font-size: 18px;
+  height: 50px;
+  letter-spacing: 1px;
+  font-weight: 100;
+  background: none;
+  border: none;
+  color: white;
+}
+
+.view {
+  position: absolute;
+}
+
+.nav-address-display {
+  position: relative;
+  height: 200px;
+  width: 100%;
+  padding-left: 30px;
+}
+
+.nav-address-text {
+  position: relative;
+  top: 97px;
+  padding-left: 10px;
+  margin: 0px;
+}
+
+.view-maing {
+  position: relative;
+  padding-left: 10px;
 }
