@@ -1,0 +1,969 @@
+/* Standard English Sentences */
+
+
+position: absolute;
+width: 354px;
+height: 27px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* We can use this sentence structure to make a variety of other sentences, too. */
+
+
+position: absolute;
+width: 717px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Since these are very important, let’s look at them in more detail, starting with the subject. Unlike in Japanese, the subject is required in order to make full sentences. */
+
+
+position: absolute;
+width: 834px;
+height: 60px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #474747;
+
+
+
+/* Using different subjects with the same sentence structure, we can describe different situations. */
+
+
+position: absolute;
+width: 886px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Vector 4 */
+
+
+position: absolute;
+width: 425px;
+height: 0px;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 142px;
+height: 69px;
+
+background: #F0C4C4;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 142px;
+height: 69px;
+
+background: #F0C4C4;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 142px;
+height: 66px;
+
+background: #CBF2ED;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 142px;
+height: 66px;
+
+background: #CBF2ED;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 142px;
+height: 66px;
+
+background: #D7CBF2;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 142px;
+height: 66px;
+
+background: #D7CBF2;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 254px;
+height: 68px;
+
+background: #EBEAEA;
+border-radius: 8px;
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 254px;
+height: 68px;
+
+background: #EBEAEA;
+border-radius: 8px;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 680px;
+height: 270px;
+
+border: 3px solid #EBEAEA;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 680px;
+height: 302px;
+
+border: 3px solid #EBEAEA;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Ex */
+
+
+position: absolute;
+width: 26px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Ex */
+
+
+position: absolute;
+width: 26px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* S */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* S */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* V */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* V */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* O */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* O */
+
+
+position: absolute;
+width: 15px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* I */
+
+
+position: absolute;
+width: 6px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* We */
+
+
+position: absolute;
+width: 26px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* I */
+
+
+position: absolute;
+width: 6px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* You */
+
+
+position: absolute;
+width: 35px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* I */
+
+
+position: absolute;
+width: 6px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* They */
+
+
+position: absolute;
+width: 45px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* She */
+
+
+position: absolute;
+width: 36px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* I */
+
+
+position: absolute;
+width: 6px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* we */
+
+
+position: absolute;
+width: 25px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* you */
+
+
+position: absolute;
+width: 34px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* you */
+
+
+position: absolute;
+width: 34px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* he/she */
+
+
+position: absolute;
+width: 65px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* they */
+
+
+position: absolute;
+width: 41px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* play */
+
+
+position: absolute;
+width: 40px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* play */
+
+
+position: absolute;
+width: 40px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* read */
+
+
+position: absolute;
+width: 44px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* read */
+
+
+position: absolute;
+width: 44px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* watch */
+
+
+position: absolute;
+width: 56px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* watch */
+
+
+position: absolute;
+width: 56px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* reads */
+
+
+position: absolute;
+width: 53px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Notice that the verb changes here because the subject has changed. This is calledsubject-verb agreement and we will talk about it more later on. */
+
+
+position: absolute;
+width: 369px;
+height: 104px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #474747;
+
+
+
+/* basketball */
+
+
+position: absolute;
+width: 98px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* basketball */
+
+
+position: absolute;
+width: 98px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* books */
+
+
+position: absolute;
+width: 58px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* books */
+
+
+position: absolute;
+width: 58px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* movies */
+
+
+position: absolute;
+width: 65px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* movies */
+
+
+position: absolute;
+width: 65px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* books */
+
+
+position: absolute;
+width: 58px;
+height: 20px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Group 5 */
+
+
+position: absolute;
+width: 157px;
+height: 122px;
+
+
+
+/* Group 7 */
+
+
+position: absolute;
+width: 180px;
+height: 173px;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 171px;
+height: 58px;
+
+background: #F0C4C4;
+border: 1px solid #F0C4C4;
+box-sizing: border-box;
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 396px;
+height: 239px;
+
+border: 1px solid #F0C4C4;
+box-sizing: border-box;
+
+
+/* Subject */
+
+
+position: absolute;
+width: 94px;
+height: 27px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #474747;
+
+
+
+/* Vector 34 */
+
+
+position: absolute;
+width: 22px;
+height: 0px;
+
+border: 2px solid #A9F4A3;
+
+
+/* Vector 35 */
+
+
+position: absolute;
+width: 22px;
+height: 0px;
+
+border: 2px solid #A9F4A3;
+
+
+/* Vector 36 */
+
+
+position: absolute;
+width: 0px;
+height: 189px;
+
+border: 2px solid #A9F4A3;
+
+
+/* Vector 37 */
+
+
+position: absolute;
+width: 178px;
+height: 0px;
+
+border: 2px solid #A9F4A3;

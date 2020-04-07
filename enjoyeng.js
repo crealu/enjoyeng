@@ -76,6 +76,8 @@ function translateNav(gengo) {
   }
 }
 
+
+
 function windowOnloadFunctions() {
   //resizeWindows();
 }
