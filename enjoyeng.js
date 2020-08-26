@@ -58,6 +58,15 @@ let navigationText = [
   ['This, That, The Other', 'これ、それ、あれ']
 ];
 
+let phrases = [
+  'tend to',
+  'stands for',
+  'because',
+  'if',
+  'as _ as',
+  'have to'
+];
+
 function translateNav(gengo) {
   let navText = document.getElementsByClassName('nav-text');
 
@@ -76,7 +85,28 @@ function translateNav(gengo) {
   }
 }
 
-
+let someDifferences = [
+  {
+    title: 'Keep vs Continue',
+    words: ['keep', 'continue'],
+    difference: 'Keep means continue to hold. Continue means keep going. In a phrase like "keep me in mind", it means that\
+    the speaker wants the listener to continue to think about that person.',
+    examples: [
+      'Keep in mind how much time you have.',
+      'After dinner, I will continue working on my project.'
+    ]
+  },
+  {
+    title: 'Talk vs Discuss',
+    words: ['talk', 'discuss'],
+    difference: 'The verb "talk" requires the preposition "about". The verb "discuss" is transitive so it does\
+    not require the preposition "about".',
+    examples: [
+      "Let's talk about your hobbies.",
+      "Would you like to discuss politics?"
+    ]
+  }
+]
 
 function windowOnloadFunctions() {
   //resizeWindows();
