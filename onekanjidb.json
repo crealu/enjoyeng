@@ -16668,6 +16668,12 @@
 					}
 				]
 			},
+			{
+				"kanji": "病",
+				"on": "びょう",
+				"kun": "やまい, や, ぺい",
+				"general": "disease",
+				"examples": [
 					{
 						"kre": ["病", "やまい", "disease"],
 						"sentence": {

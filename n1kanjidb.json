@@ -1,0 +1,1116 @@
+{
+	"kanji": {
+		"n1": [
+			{
+				"kanji": "態",
+				"on": "たい",
+				"kun": "",
+				"general": "situation",
+				"examples": [
+					{
+						"kre": ["態勢", "たいせい", "preparedness"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["形態", "けいたい", "form"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["実態", "じったい", "actual condition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "影",
+				"on": "えい",
+				"kun": "かげ",
+				"general": "influence",
+				"examples": [
+					{
+						"kre": ["影", "かげ", "shadow"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["影響", "えいきょう", "influence"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人影", "ひとかげ", "figure"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["撮影", "さつえい", "photography"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "響",
+				"on": "きょう",
+				"kun": "ひび",
+				"general": "sound",
+				"examples": [
+					{
+						"kre": ["響く", "ひびく", "sound, affect"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["反響", "はんきょう", "echo"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["音響", "おんきょう", "influence"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "僕",
+				"on": "ぼく",
+				"kun": "",
+				"general": "I",
+				"examples": [
+				]
+			},
+			{
+				"kanji": "嫌",
+				"on": "けん, げん",
+				"kun": "きら, いや",
+				"general": "dislike",
+				"examples": [
+					{
+						"kre": ["嫌い", "きらい", "hate"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["好き嫌い", "すききらい", "likes and dislikes"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["嫌がる", "いやがる", "dislike"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["嫌悪", "けんお", "dislkie, hatred"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "功",
+				"on": "こう, く",
+				"kun": "",
+				"general": "good deed",
+				"examples": [
+					{
+						"kre": ["功徳", "くどく", "good deed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["功績", "こうせき", "achievement"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["功名", "こうみょう", "ambition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "義",
+				"on": "ぎ",
+				"kun": "",
+				"general": "obligation",
+				"examples": [
+					{
+						"kre": ["義理", "ぎり", "obligation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["定義", "ていぎ", "definition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["正義", "せいぎ", "justice"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "離",
+				"on": "り",
+				"kun": "はな",
+				"general": "separate",
+				"examples": [
+					{
+						"kre": ["離す", "はなす", "to separate"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["離れる", "はなれる", "to be separated"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["離婚", "りこん", "divorcement"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["分離", "ぶんり", "separation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "姿",
+				"on": "し",
+				"kun": "すがた",
+				"general": "figure",
+				"examples": [
+					{
+						"kre": ["姿", "すがた", "figure"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["姿勢", "しせい", "attitude"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["姿態", "したい", "figure"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["容姿", "ようし", "appearance, figure"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "握",
+				"on": "あく",
+				"kun": "にぎ",
+				"general": "grasp",
+				"examples": [
+					{
+						"kre": ["握る", "にぎる", "to grasp, grip, hold"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["握手", "あくしゅ", "handshake"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["把握", "はあく", "grasp"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "維",
+				"on": "い",
+				"kun": "",
+				"general": "maintain",
+				"examples": [
+					{
+						"kre": ["維持", "いじ", "maintenance"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["維新", "いしん", "restoration"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "提",
+				"on": "てい",
+				"kun": "さ",
+				"general": "take along",
+				"examples": [
+					{
+						"kre": ["提げる", "さげる", "to take along"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["提示", "ていじ", "showing, presenting"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["提供", "ていきょう", "presenting, offering"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["前提", "ぜんてい", "premise, presupposition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "丈",
+				"on": "じょう",
+				"kun": "たけ",
+				"general": "stature",
+				"examples": [
+					{
+						"kre": ["丈", "たけ", "height, stature"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["丈夫", "じょうぶ", "strong, firm, stout"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["頑丈", "がんじょう", "strongly-built"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["大丈夫", "だいじょうぶ", "okay"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "鈴",
+				"on": "りん, れい",
+				"kun": "すず",
+				"general": "bell",
+				"examples": [
+					{
+						"kre": ["鈴", "すず", "bell"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["風鈴", "ふうりん", "wind-bell"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "企",
+				"on": "き",
+				"kun": "くわだ",
+				"general": "plan",
+				"examples": [
+					{
+						"kre": ["企てる", "くわだてる", "purpose, undertake"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["企図", "きと", "plan, design, plot"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["企画", "きかく", "plan, project"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "掛",
+				"on": "",
+				"kun": "か",
+				"general": "hang",
+				"examples": [
+					{
+						"kre": ["掛ける", "かける", "to hang"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["掛かる", "かかる", "to be hanged"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["心掛け", "こころかけ", "attention"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["仕掛ける", "しかける", "challenge"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["見掛ける", "みかける", "find, notice"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "就",
+				"on": "しゅう, しゅ",
+				"kun": "つ",
+				"general": "inaugurate",
+				"examples": [
+					{
+						"kre": ["就く", "つく", "to gain a position, new start"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["就業", "しゅうぎょう", "being at work"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["就職", "しゅうしょく", "getting a job"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "驚",
+				"on": "きょう",
+				"kun": "おどろ",
+				"general": "marvel at",
+				"examples": [
+					{
+						"kre": ["驚く", "おどろく", "to be surprised, marvel at"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["驚かす", "おどろかす", "to surprise"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["驚異", "きょうい", "wonder, miracle"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "充",
+				"on": "じゅう",
+				"kun": "あ",
+				"general": "fulfill",
+				"examples": [
+					{
+						"kre": ["充てる", "あてる", "to appropriate"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["充実", "じゅうじつ", "fulfillment"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["充満", "じゅうまん", "being filled"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "迫",
+				"on": "はく",
+				"kun": "せ",
+				"general": "draw near",
+				"examples": [
+					{
+						"kre": ["迫る", "せまる", "to draw near"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["迫害", "はくがい", "persecution"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["圧迫", "あっぱく", "pressure, oppression"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "頃",
+				"on": "",
+				"kun": "ころ",
+				"general": "about",
+				"examples": [
+					{
+						"kre": ["頃", "ころ", "about, around"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一頃", "ひところ", "formerly, once"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["日頃", "ひごろ", "usually, for a long time"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["手頃", "てごろ", "reasonable, handy"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "策",
+				"on": "さく",
+				"kun": "",
+				"general": "measure",
+				"examples": [
+					{
+						"kre": ["策", "さく", "plan, measure"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["方策", "ほうさく", "plan, scheme"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["対策", "たいさく", "measure, step"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "柄",
+				"on": "へい",
+				"kun": "がら, え",
+				"general": "matter",
+				"examples": [
+					{
+						"kre": ["柄", "がら", "matter"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人柄", "ひとがら", "character, personality"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小柄", "こがら", "rather small"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["間柄", "あいたがら", "relationship"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "徴",
+				"on": "ちょう",
+				"kun": "",
+				"general": "symbol",
+				"examples": [
+					{
+						"kre": ["徴用", "ちょうよう", "service mobilization"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["徴収", "ちょうしゅう", "imposition, collection"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "壊",
+				"on": "かい",
+				"kun": "こわ",
+				"general": "destroy",
+				"examples": [
+					{
+						"kre": ["壊す", "こわす", "to destroy"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["壊れる", "こわれる", "to be destroyed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["壊滅", "かいめつ", "annihilation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["破壊", "はかい", "destruction"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "藤",
+				"on": "とう",
+				"kun": "ふじ",
+				"general": "wisteria",
+				"examples": [
+					{
+						"kre": ["藤", "ふじ", "wisteria"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "眺",
+				"on": "ちょう",
+				"kun": "なが",
+				"general": "view",
+				"examples": [
+					{
+						"kre": ["眺める", "ながめる", "to view"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "勧",
+				"on": "かん",
+				"kun": "すす",
+				"general": "recommend",
+				"examples": [
+					{
+						"kre": ["勧める", "すすめる", "to recommend, suggest"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["勧誘", "かんゆう", "persuasion, invitation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "郎",
+				"on": "ろう",
+				"kun": "",
+				"general": "fellow",
+				"examples": [
+					{
+						"kre": ["新郎", "しんろう", "bridegroom"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "振",
+				"on": "しん",
+				"kun": "ふ",
+				"general": "shake",
+				"examples": [
+					{
+						"kre": ["振る", "ふる", "to shake"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["振るう", "ふるう", "to be shaken"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["振り返る", "ふりかえる", "to look back"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["振動", "しんどう", "vibration"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["振興", "しんこう", "promotion"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "避",
+				"on": "ひ",
+				"kun": "さ",
+				"general": "avoid",
+				"examples": [
+					{
+						"kre": ["避ける", "さける", "to avoid, ward off"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["避難", "ひなん", "shelter, refuge"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["避雷針", "ひらいしん", "lightning rod"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "忠",
+				"on": "ちゅう",
+				"kun": "",
+				"general": "loyalty",
+				"examples": [
+					{
+						"kre": ["忠誠", "ちゅうせい", "loyalty"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["忠勤", "ちゅうきん", "loyal service"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["忠告", "ちゅうこく", "advice, counsel"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "頑",
+				"on": "がん",
+				"kun": "",
+				"general": "sturdy",
+				"examples": [
+					{
+						"kre": ["頑張る", "がんばる", "to do one's best"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["頑丈", "がんじょう", "strongly-built"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["頑固", "がんこ", "obstinacy, stubbornness"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "為",
+				"on": "い, か",
+				"kun": "",
+				"general": "deed",
+				"examples": [
+					{
+						"kre": ["為替", "かわせ", "exchange"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["行為", "こうい", "deed, act"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "駄",
+				"on": "だ",
+				"kun": "",
+				"general": "bad",
+				"examples": [
+					{
+						"kre": ["駄作", "ださく", "poor work, trash"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["駄目", "だめ", "bad, useless, futile"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "慮",
+				"on": "りょ",
+				"kun": "",
+				"general": "consideration",
+				"examples": [
+					{
+						"kre": ["配慮", "はいりょ", "consideration, care"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["遠慮", "えんりょ", "reserve, modesty"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "障",
+				"on": "しょう",
+				"kun": "さわ",
+				"general": "hurt",
+				"examples": [
+					{
+						"kre": ["障る", "さわる", "to hurt, harm"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["障子", "しょうじ", "paper sliding door"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "惑",
+				"on": "わく",
+				"kun": "まど",
+				"general": "perplexed",
+				"examples": [
+					{
+						"kre": ["惑う", "まどう", "to be perplexed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["惑星", "わくせい", "planet"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["誘惑", "ゆうわく", "temptation, allurement"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["疑惑", "ぎわく", "doubt"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "瞬",
+				"on": "しゅん",
+				"kun": "またた",
+				"general": "moment",
+				"examples": [
+					{
+						"kre": ["瞬く", "またたく", "to twinkle"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["瞬間", "しゅんかん", "moment, instant"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["瞬発力", "しゅんぱつりょく", "instantaneous force"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,3614 @@
+{
+	"kanji": {
+		"n5": [
+			{
+				"kanji": "日",
+				"on": "にち, ずつ",
+				"kun": "ひ, か",
+				"general": "sun",
+				"examples": [
+					{
+						"kre": ["日", "にち", "sun"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["日曜日", "にちようび", "Sunday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["日米", "にちべい", "Japan and USA"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十日間", "とおかかん", "ten days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["今日", "きょう", "today"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["休日", "きゅうじつ", "holiday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["明日", "あした", "tomorrow"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "月",
+				"on": "げつ, がつ",
+				"kun": "つき",
+				"general": "moon",
+				"examples": [
+					{
+						"kre": ["月", "つき", "moon, month"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["月見", "つきみ", "moon viewing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["月曜日", "げつようび", "Monday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["今月", "こんげつ", "this month"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一月", "ひとつき", "one month"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一月", "いちがつ", "January"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "火",
+				"on": "か",
+				"kun": "ひ, ほ",
+				"general": "fire",
+				"examples": [
+					{
+						"kre": ["火", "ひ", "fire"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["火曜日", "かようび", "Tuesday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["火災", "かさい", "a fire"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["火力", "かりょうく", "heat"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["火山", "かざん", "volcano"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["消火", "しょうか", "fire extinguishing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "水",
+				"on": "すい",
+				"kun": "みず",
+				"general": "water",
+				"examples": [
+					{
+						"kre": ["水", "みず", "water"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水色", "みずいろ", "light blue"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水曜日", "すいようび", "Wednesday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水道", "すいどう", "water supply"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水平", "すいへい", "horizontal"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水位", "すいい", "water level"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "木",
+				"on": "ぼく, もく",
+				"kun": "き, こ",
+				"general": "tree",
+				"examples": [
+					{
+						"kre": ["木", "き", "tree"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["木刀", "ぼくとう", "wooden sword"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["木材", "もくざい", "wood"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["植木", "うえき", "potted plant"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["木曜日", "もくようび", "Thursday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "金",
+				"on": "きん, こん",
+				"kun": "かね, かな",
+				"general": "money",
+				"examples": [
+					{
+						"kre": ["金", "きん", "gold"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["金額", "きんがく", "sum of money"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["金曜日", "きんようび", "Friday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["金具", "かねぐ", "metal fittings"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["お金", "おかね", "money"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["黄金", "おうごん", "gold"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "土",
+				"on": "ど, と",
+				"kun": "つち",
+				"general": "soil",
+				"examples": [
+					{
+						"kre": ["土", "つち", "soil, dirt"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["土地", "とち", "land"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["土曜日", "どようび", "Saturday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["土台", "どだい", "foundation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["粘土", "ねんど", "clay"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "一",
+				"on": "いち, いつ",
+				"kun": "ひと",
+				"general": "one",
+				"examples": [
+					{
+						"kre": ["一", "いち", "one"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一番", "いちばん", "first"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一月", "いちがつ", "January"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一回", "いっかい", "once"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一人", "ひとり", "one person"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一つ", "ひとつ", "one thing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "二",
+				"on": "に",
+				"kun": "ふた",
+				"general": "two",
+				"examples": [
+					{
+						"kre": ["二", "に", "two"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二番", "にばん", "second"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二月", "にがつ", "February"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二つ", "ふたつ", "two things"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二人", "ふたり", "two people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二重", "にじゅう", "double"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "三",
+				"on": "さん",
+				"kun": "み, みっ",
+				"general": "three",
+				"examples": [
+					{
+						"kre": ["三", "さん", "three"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三番", "さんばん", "third"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三月", "さんがつ", "March"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三人", "さんにん", "three people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三角形", "さんかくけい", "triangle"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三次元", "さんじげん", "three dimensions"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三日月", "みかづき", "crescent moon"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "四",
+				"on": "し",
+				"kun": "よ, よん",
+				"general": "four",
+				"examples": [
+					{
+						"kre": ["四", "し", "four"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四人", "しにん", "four people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四月", "しがつ", "April"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四角形", "しかくけい", "quadrangle"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四番", "よんばん", "fourth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四年", "よねん", "four years"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["四輪", "よんりん", "four wheels"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "五",
+				"on": "ご",
+				"kun": "いつ",
+				"general": "five",
+				"examples": [
+					{
+						"kre": ["五", "ご", "five"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五人", "ごにん", "five people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五月", "ごがつ", "May"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五番", "ごばん", "fifth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五輪", "ごりん", "the Olympics"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五角形", "ごかくけい", "pentagon"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["五日間", "いつかかん", "five days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "六",
+				"on": "ろく",
+				"kun": "む, むい",
+				"general": "six",
+				"examples": [
+					{
+						"kre": ["六", "ろく", "six"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["六人", "ろくにん", "six people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["六月", "ろくがつ", "June"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["六番", "ろくばん", "sixth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["六日間", "むいかかん", "six days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["双六", "すごろく", "JApanese backgammon"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["六角形", "ろっかくけい", "hexagon"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "七",
+				"on": "しち",
+				"kun": "なな, なの",
+				"general": "seven",
+				"examples": [
+					{
+						"kre": ["七", "なな", "seven"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["七人", "しちにん", "seven people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["七月", "しちがつ", "July"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["七番", "ななばん", "seventh"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["七日間", "なのかかん", "seven days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["七面鳥", "しちめんちょう", "turkey"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["北斗七星", "ほくとしちせい", "the Big Dipper"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "八",
+				"on": "はち",
+				"kun": "や, よう",
+				"general": "eight",
+				"examples": [
+					{
+						"kre": ["八", "はち", "eight"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八人", "はちにん", "eight people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八月", "はちがつ", "August"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八番", "はちばん", "eighth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八日間", "ようかかん", "eight days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八角形", "はっかくけい", "octagon"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["八百屋", "やおや", "greengrocer"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "九",
+				"on": "きゅう, く",
+				"kun": "ここの",
+				"general": "nine",
+				"examples": [
+					{
+						"kre": ["九", "きゅう", "nine"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["九人", "きゅうにん", "nine people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["九月", "くがつ", "September"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["九番", "きゅうばん", "ninth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["九日間", "ここのかかん", "nine days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["九州", "きゅうしゅう", "Kyushu"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "十",
+				"on": "じゅう",
+				"kun": "とお, と",
+				"general": "ten",
+				"examples": [
+					{
+						"kre": ["十", "じゅう", "ten"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十人", "じゅうり", "ten people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十月", "じゅうがつ", "October"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十日間", "とうかかん", "ten days"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十円玉", "じゅうえんだま", "ten yen coin"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十五夜", "じゅうごや", "a full moon night"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "百",
+				"on": "ひゃく",
+				"kun": "",
+				"general": "hundred",
+				"examples": [
+					{
+						"kre": ["百", "ひゃく", "hundred"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二百", "にひゃく", "two hundred"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["百円玉", "ひゃくえんだま", "hundred yen coin"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["百円ショップ", "ひゃくえんしょっぷ", "100 yen shop"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["百科事典", "ひゃっかじてん", "encyclopedia"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "千",
+				"on": "せん",
+				"kun": "ち",
+				"general": "thousand",
+				"examples": [
+					{
+						"kre": ["千", "せん", "thousand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["千円", "せんえん", "thousand yen"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["三千", "さんぜん", "three thousand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "手",
+				"on": "しゅ",
+				"kun": "て, た",
+				"general": "hand",
+				"examples": [
+					{
+						"kre": ["手", "て", "hand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["握手", "あくしゅ", "handshake"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["手袋", "てぶくろ", "glove"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["手綱", "たづな", "reins"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["手術", "しゅじゅつ", "surgery, operations"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["手紙", "てがみ", "letter"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "足",
+				"on": "そく",
+				"kun": "あし, た",
+				"general": "hand",
+				"examples": [
+					{
+						"kre": ["足", "あし", "foot"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["脚", "あし", "leg"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["足す", "たす", "to add"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一足", "いっそく", "pair of shoes"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["足首", "足首", "wrist"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["足し算", "たしざん", "addition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["足場", "あしば", "scaffold, foothold"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["補足", "ほそく", "supplement"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "目",
+				"on": "もく, ぼく",
+				"kun": "め, ま",
+				"general": "eye",
+				"examples": [
+					{
+						"kre": ["目", "め", "eye"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["目薬", "めぐすり", "eye drops"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["目的", "もくてき", "purpose"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["役目", "やくめ", "job, role"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["目標", "もくひょう", "goal"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "耳",
+				"on": "じ",
+				"kun": "みみ",
+				"general": "ear",
+				"examples": [
+					{
+						"kre": ["耳", "みみ", "ear"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["右耳", "みぎみみ", "right ear"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["耳元", "みみもと", "one's ear"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["耳栓", "みみせん", "earplug"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "口",
+				"on": "こう, く",
+				"kun": "くち",
+				"general": "mouth",
+				"examples": [
+					{
+						"kre": ["口", "くち", "mouth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人口", "じんこう", "population"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["口調", "くちょう", "tone of voice"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["口紅", "くちべに", "lipstick"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["口論", "こうろん", "argument"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "林",
+				"on": "りん",
+				"kun": "はやし",
+				"general": "woods",
+				"examples": [
+					{
+						"kre": ["林", "はやし", "woods"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["林道", "りんどう", "forest road"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["植林", "しょくりん", "afforestation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["杉林", "すぎばやし", "Japanese cedar forest"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "森",
+				"on": "しん",
+				"kun": "もり",
+				"general": "forest",
+				"examples": [
+					{
+						"kre": ["森", "もり", "forest"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["森林", "しんりん", "big forest"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "天",
+				"on": "てん",
+				"kun": "あめ, あま",
+				"general": "space",
+				"examples": [
+					{
+						"kre": ["天", "あめ", "space"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["天気", "てんき", "weather"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["天井", "てんじょう", "ceiling"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["天の川", "あまのがわ", "the Milky Way"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["天使", "てんし", "angel"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "気",
+				"on": "き, け",
+				"kun": "",
+				"general": "air",
+				"examples": [
+					{
+						"kre": ["気", "き", "air"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["気温", "きおん", "temperature"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["気分", "きぶん", "mood"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["気配", "けはい", "sign"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "空",
+				"on": "くう",
+				"kun": "そら, あ",
+				"general": "sky",
+				"examples": [
+					{
+						"kre": ["空", "そら", "sky"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["空く", "あく", "empty"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["空港", "くうこう", "airport"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["夜空", "よぞら", "night sky"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["空手", "からて", "karate"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "夕",
+				"on": "せき",
+				"kun": "ゆう",
+				"general": "evening",
+				"examples": [
+					{
+						"kre": ["夕", "ゆう", "evening"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一朝一夕", "いっちょういっせき", "in a short time"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["夕方", "ゆうがた", "evening"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["夕食", "ゆうしょく", "supper"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "石",
+				"on": "せき, しゃく, こく",
+				"kun": "いし",
+				"general": "stone",
+				"examples": [
+					{
+						"kre": ["石", "いし", "stone"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["石油", "せきゆ", "oil"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["磁石", "じしゃく", "magnet"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["宝石", "ほうせき", "jewel"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "貝",
+				"on": "",
+				"kun": "かい",
+				"general": "shellfish",
+				"examples": [
+					{
+						"kre": ["貝", "かい", "shellfish"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["貝殻", "かいがら", "shell"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["帆立貝", "ほたてがい", "scallop"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["二枚貝", "にまいがい", "clam"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "草",
+				"on": "そう",
+				"kun": "くさ",
+				"general": "grass",
+				"examples": [
+					{
+						"kre": ["草", "くさ", "grass"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["野草", "やそう", "wild grass"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["海草", "かいそう", "seagrass"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["草原", "そうげん", "grassland"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "花",
+				"on": "か",
+				"kun": "はな",
+				"general": "flower",
+				"examples": [
+					{
+						"kre": ["花", "はな", "flower"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["花壇", "かだん", "flower bed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["花束", "はなたば", "bouquet"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["花火", "はなび", "fireworks"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "竹",
+				"on": "ちく",
+				"kun": "たけ",
+				"general": "bamboo",
+				"examples": [
+					{
+						"kre": ["竹", "たけ", "bamboo"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["竹林", "ちくりん", "bamboo grove"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["竹馬", "たけうま", "bamboo stilts"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["竹垣", "たけがき", "bamboo fence"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "山",
+				"on": "さん",
+				"kun": "やま",
+				"general": "mountain",
+				"examples": [
+					{
+						"kre": ["山", "やま", "mountain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["山火事", "やまかじ", "forest fire"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["登山", "とざん", "climbing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["火山", "かざん", "volcano"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["高山", "こうざん", "high mountain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "川",
+				"on": "せん",
+				"kun": "かわ",
+				"general": "river",
+				"examples": [
+					{
+						"kre": ["川", "かわ", "river"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["河川", "かせん", "river"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["川辺", "かわべ", "riverside"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["川上", "かわかみ", "a river's upper reaches"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小川", "おがわ", "stream, creak"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "雨",
+				"on": "う",
+				"kun": "あめ, あま",
+				"general": "rain",
+				"examples": [
+					{
+						"kre": ["雨", "あめ", "rain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["雷雨", "らいう", "thunderstorm"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["長雨", "ながあめ", "long rain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["雨具", "あまぐ", "rain gear"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["雨量", "うりょう", "rainfall"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["豪雨", "ごうう", "heavy rain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "田",
+				"on": "でん",
+				"kun": "た",
+				"general": "rice field",
+				"examples": [
+					{
+						"kre": ["田", "た", "paddy"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["水田", "すいでん", "rice paddy"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["田畑", "たはた", "field, farmland"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["油田", "ゆでん", "oil field"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["田園", "でんえん", "the countryside"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "虫",
+				"on": "ちゅう",
+				"kun": "むし",
+				"general": "bug",
+				"examples": [
+					{
+						"kre": ["虫", "むし", "bug"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["昆虫", "こんちゅう", "insect"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["毛虫", "けむし", "hairy caterpillar"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["虫歯", "むしば", "bad tooth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["弱虫", "よわむし", "wimp, coward"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "犬",
+				"on": "けん",
+				"kun": "いぬ",
+				"general": "dog",
+				"examples": [
+					{
+						"kre": ["犬", "いぬ", "dog"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["愛犬", "あいけん", "pet dog"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["番犬", "ばんけん", "guard dog"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["猟犬", "りょうけん", "hound"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["野良犬", "のらいぬ", "stray dog"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "音",
+				"on": "おん, いん",
+				"kun": "おと, ね",
+				"general": "sound",
+				"examples": [
+					{
+						"kre": ["音", "おと", "sound"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["音楽", "おんがく", "music"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["足音", "あしおと", "footstep"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["音色", "ねいろ", "tone"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["騒音", "そうおん", "noise"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "本",
+				"on": "ほん",
+				"kun": "もと",
+				"general": "book",
+				"examples": [
+					{
+						"kre": ["本", "ほん", "book"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["本屋", "ほんや", "bookstore"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["本音", "ほんね", "real feelings"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["熊本市", "くまもとし", "Kumamoto City"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["基本", "きほん", "basis, basics"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "男",
+				"on": "だん, なん",
+				"kun": "おとこ",
+				"general": "man",
+				"examples": [
+					{
+						"kre": ["男", "おとこ", "male"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["男性", "だんせい", "man"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["長男", "ちょうなん", "the eldest son"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["男女", "だんじょ", "men and women"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "女",
+				"on": "じょ, にょ",
+				"kun": "おんな, め",
+				"general": "woman",
+				"examples": [
+					{
+						"kre": ["女", "おんな", "female"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["女性", "じょせい", "woman"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["乙女", "おとめ", "young girl"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["少女", "しょうじょ", "girl"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["女神", "めがみ", "goddess"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "学",
+				"on": "がく",
+				"kun": "まな",
+				"general": "learn",
+				"examples": [
+					{
+						"kre": ["学", "がく", "study"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["学ぶ", "まなぶ", "to learn"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["学校", "がっこう", "school"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["留学", "りゅうがく", "studying abroad"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["学習", "がくしゅう", "learning, study"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "校",
+				"on": "こう",
+				"kun": "",
+				"general": "school",
+				"examples": [
+					{
+						"kre": ["校", "こう", "school"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["校庭", "こうてい", "playground"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["校舎", "こうしゃ", "school building"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["校長", "こうちょう", "principal"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["校正", "こうせい", "proofreading"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "先",
+				"on": "せん",
+				"kun": "さき",
+				"general": "precede",
+				"examples": [
+					{
+						"kre": ["先", "さき", "preceding"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["先生", "せんせい", "teacher"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["先輩", "せんぱい", "one's senior"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["先程", "さきほど", "a little while ago"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["先頭", "せんとう", "the front"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "生",
+				"on": "せい, しょう",
+				"kun": "い, う, は",
+				"general": "life",
+				"examples": [
+					{
+						"kre": ["生", "せい", "live"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["生命", "せいめい", "life, existence"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一生", "いっしょう", "one's whole life"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["生き物", "いきもの", "living thing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "子",
+				"on": "し, す",
+				"kun": "こ",
+				"general": "child",
+				"examples": [
+					{
+						"kre": ["帽子", "ぼうし", "hat"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["椅子", "いす", "chair"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["子供", "こども", "child"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["調子", "ちょうし", "condition"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "入",
+				"on": "にゅう",
+				"kun": "い, はい",
+				"general": "enter",
+				"examples": [
+					{
+						"kre": ["入る", "はいる", "to enter"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["入学", "にゅうがく", "admission to school"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["入国", "にゅうこく", "entry into a country"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["侵入", "しんにゅう", "invasion"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["輸入", "ゆにゅう", "import"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "字",
+				"on": "じ",
+				"kun": "あざ",
+				"general": "letter",
+				"examples": [
+					{
+						"kre": ["文字", "もじ", "letter, character"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["数字", "すうじ", "number"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["字数", "じすう", "the number of characters"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["字幕", "じまく", "subtitles"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "人",
+				"on": "じん, にん",
+				"kun": "ひと",
+				"general": "people",
+				"examples": [
+					{
+						"kre": ["人", "ひと", "people, person"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人生", "じんせい", "one's life"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人間", "にんげん", "human being"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人柄", "ひとがら", "personality"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["友人", "ゆうじん", "friend"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "出",
+				"on": "しゅつ, すい",
+				"kun": "で, だ",
+				"general": "out",
+				"examples": [
+					{
+						"kre": ["出", "しゅつ", "out"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出る", "でる", "to leave"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出す", "だす", "to put out"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["外出", "がいしゅつ", "going out"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出納", "すいとう", "cashier"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出口", "でぐち", "exit, way out"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出国", "しゅっこく", "departure from a country"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["出現", "しゅつげん", "emersion, appearance"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "右",
+				"on": "う, ゆう",
+				"kun": "みぎ",
+				"general": "right",
+				"examples": [
+					{
+						"kre": ["右", "みぎ", "right"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["右折", "うせつ", "right turn"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["左右", "さゆう", "right and left"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["右手", "みぎて", "right hand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["右側", "みぎがわ", "the right side"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["右利き", "みぎきき", "right handed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "左",
+				"on": "さ",
+				"kun": "ひだり",
+				"general": "left",
+				"examples": [
+					{
+						"kre": ["左", "ひだり", "left"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["左折", "させつ", "left turn"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["左手", "ひだりて", "left hand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["左側", "ひだりがわ", "the left side"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["左利き", "ひだりきき", "left handed"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "上",
+				"on": "じょう, しょう",
+				"kun": "うえ, うわ, かみ, あ, の",
+				"general": "up",
+				"examples": [
+					{
+						"kre": ["上", "うえ", "up"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上げる", "あげる", "to go up"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上がる", "あがる", "to raise"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上る", "のぼる", "to climb"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["屋上", "おくじょう", "rooftop"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["年上", "としうえ", "older, senior"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上半期", "かみはんき", "first half of the year"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上昇", "じょうしょう", "rise"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["向上", "こうじょう", "improvement"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上着", "うわぎ", "coat, jacket"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "下",
+				"on": "か, げ",
+				"kun": "した, さ, くだ, お",
+				"general": "down",
+				"examples": [
+					{
+						"kre": ["下", "した", "down"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下げる", "さげる", "to go down"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下がる", "さがる", "to fall"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下る", "下る", "to descend"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["地下", "ちか", "underground"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下車", "げしゃ", "getting off"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下半期", "しもはんき", "latter half of the year"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["下り坂", "くだりざか", "downward slope"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["上下", "じょうげ", "top and bottom, up and down"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "大",
+				"on": "だい, たい",
+				"kun": "おお",
+				"general": "big",
+				"examples": [
+					{
+						"kre": ["大きい", "おおきい", "big"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["大学", "だいがく", "college, university"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["大切", "たいせつ", "important"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["大型", "おおがた", "large, big"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["拡大", "かくだい", "exapnsion"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "中",
+				"on": "ちょう, じゅう",
+				"kun": "なか",
+				"general": "middle",
+				"examples": [
+					{
+						"kre": ["中", "なか", "middle"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["中学校", "ちゅうがっこう", "junior high school"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["世界中", "せかいじゅう", "all over the world"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["背中", "せなか", "back"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["中止", "ちゅうし", "canceling"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "小",
+				"on": "しょう",
+				"kun": "ちい, こ, お",
+				"general": "small",
+				"examples": [
+					{
+						"kre": ["小さい", "ちいさい", "small"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小学校", "しょうがっこう", "elementary school"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小雨", "こさめ", "light rain"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小川", "おがわ", "stream, brook"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["小鳥", "ことり", "little bird"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "青",
+				"on": "せい, しょう",
+				"kun": "あお",
+				"general": "blue",
+				"examples": [
+					{
+						"kre": ["青", "あお", "blue, green"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["青年", "せいねん", "young people"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["群青色", "ぐんじょういろ", "ultramarine"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["青空", "あおぞら", "blue sky"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["青春", "せいしゅん", "youth"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "赤",
+				"on": "せき, しゃく",
+				"kun": "あか",
+				"general": "red",
+				"examples": [
+					{
+						"kre": ["赤", "あか", "red"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["赤らむ", "あからむ", "to redden"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["赤潮", "あかしお", "red tide"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["赤字", "あかじ", "in the red, deficit"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["赤道", "せきどう", "equator"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["赤外線", "せきがいせん", "infrared rays"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "白",
+				"on": "はく, びゃく",
+				"kun": "しろ, しら",
+				"general": "white",
+				"examples": [
+					{
+						"kre": ["白", "しろ", "white"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["白衣", "はくい", "white coat"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["白熊", "しろくま", "polar bear"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["白黒", "しろくろ", "balck and white"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["告白", "こくはく", "confession"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "立",
+				"on": "りつ, りゅう",
+				"kun": "た",
+				"general": "to stand",
+				"examples": [
+					{
+						"kre": ["立てる", "たてる", "to rise"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["立つ", "たつ", "to stand"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["国立の", "こくりつの", "national"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["建立", "こんりゅう", "erection of a temple"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["立体", "りったい", "solid, 3D"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "見",
+				"on": "けん",
+				"kun": "み",
+				"general": "see",
+				"examples": [
+					{
+						"kre": ["見る", "みる", "to look"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["見える", "みえる", "to see"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["見せる", "みせる", "to show"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["見物", "けんぶつ", "sightseeing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["意見", "いけん", "opinion"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["花見", "はなみ", "sakura viewing"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["見学", "けんがく", "visit, field trip"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "休",
+				"on": "きゅう",
+				"kun": "やす",
+				"general": "rest",
+				"examples": [
+					{
+						"kre": ["休む", "やすむ", "to rest"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["休まる", "やすまる", "to relax"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["休める", "やすめる", ""],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["休暇", "きゅうか", "vacation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["連休", "れんきゅう", "consecutive holidays"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["夏休み", "なつやすみ", "summer vacation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "早",
+				"on": "そう, さっ",
+				"kun": "はや",
+				"general": "quick",
+				"examples": [
+					{
+						"kre": ["早い", "はやい", "quick"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早く", "はやく", "early"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早まる", "はやまる", "to hasten"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早める", "はやめる", "to hasten"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早朝", "そうちょう", "early morning"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早速", "さっそく", "immediately"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早口", "はやくち", "talking fast"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["早起き", "はやおき", "getting up early"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "正",
+				"on": "せい, しょう",
+				"kun": "ただ",
+				"general": "correct",
+				"examples": [
+					{
+						"kre": ["正しい", "ただしい", "correct, right"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["正す", "ただす", "to correct"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["正確", "せいかく", "accuracy"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["正月", "しょうがつ", "New Year Holiday"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["正解", "せいかい", "correct answer"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "村",
+				"on": "そん",
+				"kun": "むら",
+				"general": "village",
+				"examples": [
+					{
+						"kre": ["村", "むら", "village"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["農村", "のうそん", "farming village"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["漁村", "ぎょそん", "fishing village"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["村里", "むらざと", "village"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["村人", "むらびと", "villager"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "町",
+				"on": "ちょう",
+				"kun": "まち",
+				"general": "town",
+				"examples": [
+					{
+						"kre": ["町", "まち", "town, city"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["町営の", "ちょうえいの", "municipal"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["港町", "みなとまち", "port town"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["町長", "ちょうちょう", "town mayor"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["金町", "かなまち", "Kanamachi"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "年",
+				"on": "ねん",
+				"kun": "とし",
+				"general": "year",
+				"examples": [
+					{
+						"kre": ["年", "とし", "year"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["年齢", "ねんれい", "age"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["学年", "がくねん", "educational stage"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["今年", "ことし", "this year"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["一年", "いちねん", "one year"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "文",
+				"on": "ぶん, もん",
+				"kun": "ふみ",
+				"general": "letter",
+				"examples": [
+					{
+						"kre": ["文", "ふみ", "letter"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["文化", "ぶんか", "culture"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["注文", "ちゅうもん", "order, request"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["恋文", "こいぶみ", "love letter"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["文房具", "ぶんぼうぐ", "stationery"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "名",
+				"on": "めい, みょう",
+				"kun": "な",
+				"general": "name",
+				"examples": [
+					{
+						"kre": ["名", "めい", "reputation"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["氏名", "しめい", "full name"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["名字", "みょうじ", "family name"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["名前", "なまえ", "name"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "円",
+				"on": "えん",
+				"kun": "まる",
+				"general": "yen",
+				"examples": [
+					{
+						"kre": ["円", "えん", "Japanese yen"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["十円", "じゅうえん", "ten yen"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["円満", "えんまん", "peaceful"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["円い", "まるい", "round"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "王",
+				"on": "おう",
+				"kun": "",
+				"general": "king",
+				"examples": [
+					{
+						"kre": ["国王", "こくおう", "king"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["女王", "じょおう", "queen"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["王宮", "おうきゅう", "royal palace"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "玉",
+				"on": "ぎょう",
+				"kun": "たま",
+				"general": "jewel",
+				"examples": [
+					{
+						"kre": ["玉", "たま", "ball, jewel"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["珠玉", "しゅぎょく", "gem"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["玉葱", "たまねぎ", "onion"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["百円玉", "ひゃくえんたま", "hundred yen coin"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "糸",
+				"on": "し",
+				"kun": "いと",
+				"general": "thread",
+				"examples": [
+					{
+						"kre": ["糸", "いと", "thread, string"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["製糸", "せいし", "spinning"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["毛糸", "けいと", "knitting wool"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["糸口", "いとぐち", "clue"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["生糸", "きいと", "raw silk"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "車",
+				"on": "しゃ",
+				"kun": "くるま",
+				"general": "car",
+				"examples": [
+					{
+						"kre": ["車", "くるま", "car"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["自動車", "じどうしゃ", "car"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["列車", "れっしゃ", "train"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["肩車", "かたぐるま", "riding on shoulders"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["台車", "だいしゃ", "cart, dolly"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			},
+			{
+				"kanji": "力",
+				"on": "りょう, りき",
+				"kun": "ちから",
+				"general": "strength",
+				"examples": [
+					{
+						"kre": ["力", "ちから", "strength"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["努力", "どりょく", "effort"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["人力車", "じんりきしゃ", "rickshaw"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["力持ち", "ちからもち", "strong person"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					},
+					{
+						"kre": ["能力", "のうりょく", "ability"],
+						"sentence": {
+							"eng": "",
+							"jap": ""
+						}
+					}
+				]
+			}
+		]
+	}
+}
